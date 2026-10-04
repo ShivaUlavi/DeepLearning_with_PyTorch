@@ -11,7 +11,7 @@ Welcome! This repository documents my journey as I foray into Deep Learning usin
 
 ## 📂 Repository Contents
 
-### 1. [01_PyTorch_HelloWorld_ImageClassification.ipynb](./01_PyTorch_HelloWorld_ImageClassification.ipynb)
+### 1. [PyTorch_QuickStart_Pretrained_models.ipynb](./PyTorch_QuickStart_Pretrained_models.ipynb)
 This notebook acts as the "Hello World" entry point. Rather than training a neural network from scratch, it demonstrates the power of transfer learning by using a pre-trained **ResNet-101** network to classify an image.
 
 #### Key Learnings:
