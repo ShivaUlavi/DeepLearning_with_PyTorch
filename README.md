@@ -1,8 +1,14 @@
 # Deep Learning with PyTorch 🚀
 
-This repository is a personal learning space for exploring deep learning with PyTorch. It contains a growing collection of notebooks focused on core concepts, model design, training workflows, and practical experimentation across vision and sequence-based tasks.
+This repository is a personal learning space for exploring deep learning with PyTorch. It contains a growing collection of notebooks focused on core concepts, model design, training workflows, and practical experimentation across computer vision and NLP.
 
 Each notebook is designed to help build intuition through hands-on examples, from understanding gradients and training loops to applying convolutional and recurrent networks to real-world datasets.
+
+## 🤖 TranslatorApp Overview
+
+A standout project in this repository is the `TranslatorApp` directory, which presents a complete English-to-French neural machine translation system built from scratch in PyTorch. The app uses a GRU-based sequence-to-sequence model with Bahdanau attention, trained on a parallel corpus of English-French sentences and designed to translate text while exposing the model's attention patterns for analysis.
+
+This project is more than a notebook experiment: it includes a structured training pipeline, model checkpoints, data preprocessing utilities, and an interactive Streamlit interface for real-time translation and visualization. It offers a practical example of how sequence models handle alignment, long-range dependencies, and the trade-offs between simpler encoder-decoder architectures and attention-based decoding.
 
 ## 📚 Notebook Overview
 
