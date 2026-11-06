@@ -6,9 +6,7 @@ Each notebook is designed to help build intuition through hands-on examples, fro
 
 ## 🤖 TranslatorApp Overview
 
-A standout project in this repository is the `TranslatorApp` directory, which presents a complete English-to-French neural machine translation system built from scratch in PyTorch. The app uses a GRU-based sequence-to-sequence model with Bahdanau attention, trained on a parallel corpus of English-French sentences and designed to translate text while exposing the model's attention patterns for analysis.
-
-This project is more than a notebook experiment: it includes a structured training pipeline, model checkpoints, data preprocessing utilities, and an interactive Streamlit interface for real-time translation and visualization. It offers a practical example of how sequence models handle alignment, long-range dependencies, and the trade-offs between simpler encoder-decoder architectures and attention-based decoding.
+`TranslatorApp` is an English-to-French neural machine translation project built from scratch in PyTorch. It uses a GRU encoder-decoder with Bahdanau attention to translate sentences and includes a Streamlit interface for interactive inference and attention visualization.
 
 ## 📚 Notebook Overview
 
